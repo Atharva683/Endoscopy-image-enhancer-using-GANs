@@ -24,7 +24,7 @@ Installation and Usage
 Clone the repository:
 Bash
 
-```git clone https://github.com/01AbhiSingh/Endoscopy-Image-Enhancement-GAN.git```
+```git clone  https://github.com/Atharva683/Endoscopy-image-enhancer-using-GANs ```
 cd Endoscopy-Image-Enhancement-GAN
 Download Kvasir-SEG Dataset:
 Download the Kvasir-SEG dataset.
